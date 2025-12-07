@@ -30,7 +30,7 @@ function Hero() {
           Beginner friendly coding challenges to level up your skills!
         </h2>
 
-        <Button className="font-game text-3xl p-5 mt-7" variant={"pixel"}>
+        <Button className="font-game text-3xl p-5 mt-7 cursor-pointer" variant={"pixel"}>
           GET STARTED
         </Button>
       </div>
